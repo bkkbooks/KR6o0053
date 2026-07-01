@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6o0053/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 三彌底部論
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T32/T32n1649.xml
+    old_id: T32n1649
+hash: sha256:44757b2c1cfa84ef9c9668ab5acc52c1454aa72f872d0d105383af0aa38d19de

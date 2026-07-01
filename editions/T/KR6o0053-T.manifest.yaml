@@ -1,0 +1,62 @@
+canonical_identifier: bkk:krp/KR6o0053/T/v1
+canonical_location: https://kanripo.org/bkk/KR6o0053/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 三彌底部論
+  identifiers:
+    krp: KR6o0053
+    cbeta: T32n1649
+    cbeta_old_id: T32n1649
+    authorityid: CA0002733
+    json_key: T1649
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T32/T32n1649.xml
+    old_id: T32n1649
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6o0053_000-T.yaml, hash: 'sha256:44757b2c1cfa84ef9c9668ab5acc52c1454aa72f872d0d105383af0aa38d19de'}
+  - {seq: 1, filename: KR6o0053_001-T.yaml, hash: 'sha256:a4fadbc0f04c4abfc71fdc83c06d56d67a46572573c90edb1c48efabdba34ea4'}
+  - {seq: 2, filename: KR6o0053_002-T.yaml, hash: 'sha256:f0160d9df537af3941b5a836708021e7dc57daa32a65c0c3916122e6aeb4a990'}
+  - {seq: 3, filename: KR6o0053_003-T.yaml, hash: 'sha256:2825d5c9462aaa3db5ca9f909e234828133268045b45310e3777362f2dbbcbdd'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6o0053_000-T.markers.yaml, hash: 'sha256:cc80427b324709ded670aa81605cfcc64f5be253d42707c8953614f9999f25a0'}
+  - {seq: 1, role: markers, filename: assets/KR6o0053_001-T.markers.yaml, hash: 'sha256:41998cfcfaeb4b064774d61b7e1c87566cb5382f0d4452fe00e5cfdb71467ff2'}
+  - {seq: 2, role: markers, filename: assets/KR6o0053_002-T.markers.yaml, hash: 'sha256:c7d9997f7e6374a7f5c576ddf413b4a1116ef16e143cb1b5885258a3d1261453'}
+  - {seq: 3, role: markers, filename: assets/KR6o0053_003-T.markers.yaml, hash: 'sha256:2d662e65a8217cabdcb5fe05357aaef392b4ff4c51d71c730886b50b377042df'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6o0053_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 4360
+  label: 三彌底部論卷上
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6o0053_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 4007
+  label: 三彌底部論卷中
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6o0053_T_003-juan-start
+    span:
+    - body
+    - 0
+    - 4363
+  label: 三彌底部論卷下
+  type: juan
+  level: 1
+hash: sha256:b526154d88c2390426df88342a95420f6f28d15687b955a6f0f2e75574190bda

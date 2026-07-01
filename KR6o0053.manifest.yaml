@@ -1,0 +1,81 @@
+canonical_identifier: bkk:krp/KR6o0053/v1
+canonical_location: https://kanripo.org/bkk/KR6o0053/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 三彌底部論
+  identifiers:
+    alt_id:
+    - T32n1649
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T32/T32n1649.xml
+    old_id: T32n1649
+  edition:
+    short: bkk
+editions:
+- short: 宋
+  label: 宋
+  source_xml_id: wit1
+- short: 元
+  label: 元
+  source_xml_id: wit2
+- short: 明
+  label: 明
+  source_xml_id: wit3
+- short: 宮
+  label: 宮
+  source_xml_id: wit4
+- short: 麗-CB
+  label: 麗-CB
+  source_xml_id: wit5
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6o0053_000.yaml, hash: 'sha256:44757b2c1cfa84ef9c9668ab5acc52c1454aa72f872d0d105383af0aa38d19de'}
+  - {seq: 1, filename: KR6o0053_001.yaml, hash: 'sha256:d20ce48e6aebd4008722db84ea00cf7c0bc285a00bb9cd144ea3ce70f10d1b47'}
+  - {seq: 2, filename: KR6o0053_002.yaml, hash: 'sha256:9605263a2be90da7c39a267c924a2068a9c4eda44fdaf29eae5db748019f7348'}
+  - {seq: 3, filename: KR6o0053_003.yaml, hash: 'sha256:940227b3a36367272b72d068e28852756eb1107a603564ef4300623535ec2ce9'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6o0053_001.markers.yaml, hash: 'sha256:41437f9afd573ef9c0107116d6a4757fad2bfaba44010c9d3811ad26f78330b2'}
+  - {seq: 2, role: markers, filename: assets/KR6o0053_002.markers.yaml, hash: 'sha256:8d277b4a91e929fdffec11c7c46d642fc51f071960fbff1d4d4a8856c3933b2a'}
+  - {seq: 3, role: markers, filename: assets/KR6o0053_003.markers.yaml, hash: 'sha256:54cbc7d66a3b659068a00ed25164361674ee98aa2b2e2ec5ee73046132483ae9'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6o0053_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 4360
+  label: 三彌底部論卷上
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6o0053_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 4007
+  label: 三彌底部論卷中
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6o0053_T_003-juan-start
+    span:
+    - body
+    - 0
+    - 4363
+  label: 三彌底部論卷下
+  type: juan
+  level: 1
+hash: sha256:dc5c41f677dd4456c3c3c9ebef5b92360896d43b1cd94a4d87eab55272863695
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
