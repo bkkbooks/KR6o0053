@@ -37,13 +37,14 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6o0053_000.yaml, hash: 'sha256:44757b2c1cfa84ef9c9668ab5acc52c1454aa72f872d0d105383af0aa38d19de'}
-  - {seq: 1, filename: KR6o0053_001.yaml, hash: 'sha256:d20ce48e6aebd4008722db84ea00cf7c0bc285a00bb9cd144ea3ce70f10d1b47'}
-  - {seq: 2, filename: KR6o0053_002.yaml, hash: 'sha256:9605263a2be90da7c39a267c924a2068a9c4eda44fdaf29eae5db748019f7348'}
-  - {seq: 3, filename: KR6o0053_003.yaml, hash: 'sha256:940227b3a36367272b72d068e28852756eb1107a603564ef4300623535ec2ce9'}
+  - {seq: 1, filename: KR6o0053_001.yaml, hash: 'sha256:a4fadbc0f04c4abfc71fdc83c06d56d67a46572573c90edb1c48efabdba34ea4'}
+  - {seq: 2, filename: KR6o0053_002.yaml, hash: 'sha256:f0160d9df537af3941b5a836708021e7dc57daa32a65c0c3916122e6aeb4a990'}
+  - {seq: 3, filename: KR6o0053_003.yaml, hash: 'sha256:2825d5c9462aaa3db5ca9f909e234828133268045b45310e3777362f2dbbcbdd'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6o0053_001.markers.yaml, hash: 'sha256:41437f9afd573ef9c0107116d6a4757fad2bfaba44010c9d3811ad26f78330b2'}
-  - {seq: 2, role: markers, filename: assets/KR6o0053_002.markers.yaml, hash: 'sha256:8d277b4a91e929fdffec11c7c46d642fc51f071960fbff1d4d4a8856c3933b2a'}
-  - {seq: 3, role: markers, filename: assets/KR6o0053_003.markers.yaml, hash: 'sha256:54cbc7d66a3b659068a00ed25164361674ee98aa2b2e2ec5ee73046132483ae9'}
+  - {seq: 0, role: markers, filename: assets/KR6o0053_000.markers.yaml, hash: 'sha256:8ae6b58fdda7290d16c2900504564af1a9f19912adb7ed3ed1c57f833f8d2276'}
+  - {seq: 1, role: markers, filename: assets/KR6o0053_001.markers.yaml, hash: 'sha256:a52412a048ff1563b61bb1b86a353de7726c1fa6f3ccc25f02d988b1054a8c0e'}
+  - {seq: 2, role: markers, filename: assets/KR6o0053_002.markers.yaml, hash: 'sha256:e84ba0c186b44841da00ac3eec1db657c87abca17eea26a020019610986c225b'}
+  - {seq: 3, role: markers, filename: assets/KR6o0053_003.markers.yaml, hash: 'sha256:5c5872a4cf1c49dd6a5dfc7f554117a8e9b3a0f62d785dce713877372d59bbc0'}
 table_of_contents:
 - ref:
     seq: 1
@@ -75,7 +76,4 @@ table_of_contents:
   label: 三彌底部論卷下
   type: juan
   level: 1
-hash: sha256:dc5c41f677dd4456c3c3c9ebef5b92360896d43b1cd94a4d87eab55272863695
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:25bbc8754836c0d4b45304ee7121201a0ca43b24fa1c452fb8911f8374374265
